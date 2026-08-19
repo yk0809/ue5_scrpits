@@ -1,0 +1,13 @@
+{
+    "use_hdr": false,
+    "render_type": "pure_scene",
+    "params": [
+        {
+            "scene": "/Game/TopDown/Maps/TopDownMap",
+            "output_dir": "D:/output/circle_test/pure_scene_001",
+            "distance": 180,
+            "rotation_angle": 160,
+            "focal_angle": 3
+        }
+    ]
+}

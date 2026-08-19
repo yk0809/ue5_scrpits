@@ -1,0 +1,36 @@
+{
+    "use_hdr": false,
+    "render_type": "char_anim_scene",
+    "params": [
+        {
+            "scene": "/Game/TopDown/Maps/TopDownMap",
+            "char": "/Game/Characters/Mannequins/Meshes/SKM_Manny",
+            "anim": "/Game/Characters/Mannequin_UE4/Animations/Jog_Fwd",
+            "anim_point": 0.23,
+            "output_dir": "D:/output/circle_test/char_anim_001",
+            "distance": 180,
+            "rotation_angle": 160,
+            "focal_angle": 3
+        },
+        {
+            "scene": "/Game/TopDown/Maps/TopDownMap",
+            "char": "/Game/Characters/Mannequins/Meshes/SKM_Manny",
+            "anim": "/Game/Characters/Mannequin_UE4/Animations/Jog_Fwd",
+            "anim_point": 0.5,
+            "output_dir": "D:/output/circle_test/char_anim_002",
+            "distance": 200,
+            "rotation_angle": 90,
+            "focal_angle": 4
+        },
+        {
+            "scene": "/Game/TopDown/Maps/TopDownMap",
+            "char": "/Game/Characters/Mannequins/Meshes/SKM_Manny",
+            "anim": "/Game/Characters/Mannequin_UE4/Animations/Jog_Fwd",
+            "anim_point": 0.75,
+            "output_dir": "D:/output/circle_test/char_anim_003",
+            "distance": 220,
+            "rotation_angle": 0,
+            "focal_angle": 2.5
+        }
+    ]
+}
